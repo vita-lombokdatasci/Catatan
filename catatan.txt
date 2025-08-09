@@ -1,0 +1,4 @@
+REVISI OPNAME NURUl AZHAR (agustus 9,2025)
+1. cek ulang urutan proses stok opname
+2. proses proses pemindahan data transaksi sementara
+     apakah di aplikasi utama fastsales? ataukah di Report
